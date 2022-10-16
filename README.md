@@ -16,4 +16,4 @@ Jalankan Tools :
 
 cd DorThree
 
-php door.php
+php Door.php
