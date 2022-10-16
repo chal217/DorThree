@@ -14,6 +14,6 @@ git clone https://github.com/chal217/DorThree
 
 Jalankan Tools :
 
-cd Tools-DorTri
+cd DorThree
 
-php dortri.php
+php door.php
